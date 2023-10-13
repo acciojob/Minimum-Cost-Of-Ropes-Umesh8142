@@ -52,7 +52,7 @@ class PriorityQueue {
     //your code here
     const input=document.getElementById("rope-lengths");
     let arr= input.value.split(",");
-    console.log(arr)
+    // console.log(arr)
     let n=arr.length;
     const q = new PriorityQueue();
          
